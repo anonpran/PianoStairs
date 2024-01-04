@@ -1,5 +1,5 @@
 # PianoStairs
-Embedded Systems package
+Embedded Systems
 
 Idea behind the project: In the current world, people prefer elevators and escalators over a flight of stairs. But, climbing stairs comes with add on health benefits like keeping the body fit and energetic. So, for more people to take up climbing stairs, we decided to develop a project that would make it a fun and exciting experience for them and thus came up with the idea of "PIANO STAIRS".
 
